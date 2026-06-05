@@ -1,13 +1,12 @@
-![banner](./banner.svg)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=200&section=header&text=Kirti%20Shukla&fontSize=48&fontColor=e9d5ff&desc=Entropy%20%E2%86%92%20Order.%20That%27s%20Engineering.&descSize=16&descAlignY=75&fontAlignY=38&animation=fadeIn)
 
-<h1 align="center">  Kirti Shukla</h1>
-<h3 align="center">Entropy → Order. That's Engineering.</h3>
-
----
+<div align="center">
 
 ### ❄️ About Me
+</div>
+
 - 🎓 BTech IT student passionate about **AI/ML**
-- 🔬 Researcher · Mentor · Builder
+- 🔬 Researcher · Mentor · Builder  
 - 🌱 Currently exploring: Deep Learning & Computer Vision
 
 ---
@@ -21,7 +20,8 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=kirtishukla9955&theme=tokyonight&hide_border=true)
 
 ---
-*"Entropy → Order. That's Engineering."*
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=100&section=footer)
