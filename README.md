@@ -23,6 +23,14 @@
 
 ---
 
+### 🔥 GitHub Streak
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kirtishukla9955&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
+</div>
+
+---
+
 ### 📊 Projects & GitHub Activity
 
 <div align="center">
