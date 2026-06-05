@@ -27,13 +27,20 @@
 
 <div align="center">
 
-![Kirti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirtishukla9955&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<a href="https://github.com/kirtishukla9955">
+  <img src="https://github-readme-stats.vercel.app/api?username=kirtishukla9955&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e9d5ff&count_private=true" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirtishukla9955&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://github.com/kirtishukla9955">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtishukla9955&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e9d5ff" />
+</a>
+
+<a href="https://github.com/kirtishukla9955">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kirtishukla9955&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
+</a>
 
 </div>
 
----
 
 ## 🎯 Current Focus
 
