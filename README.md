@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## ❄️ About Me
+### ❄️ About Me
 
 </div>
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -23,40 +23,25 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 Projects & GitHub Activity
 
 <div align="center">
-
-<a href="https://github.com/kirtishukla9955">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirtishukla9955&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e9d5ff&count_private=true" />
-</a>
-
-<a href="https://github.com/kirtishukla9955">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtishukla9955&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e9d5ff" />
-</a>
-
-<a href="https://github.com/kirtishukla9955">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kirtishukla9955&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
-</a>
-
+<img src="https://raw.githubusercontent.com/kirtishukla9955/kirtishukla9955/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
 </div>
-
-## 📊 Projects & GitHub Activity
 
 <div align="center">
-
-![](https://raw.githubusercontent.com/kirtishukla9955/kirtishukla9955/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
-
-![](https://raw.githubusercontent.com/kirtishukla9955/kirtishukla9955/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/kirtishukla9955/kirtishukla9955/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
-
-![](https://raw.githubusercontent.com/kirtishukla9955/kirtishukla9955/main/profile-summary-card-output/tokyonight/3-stats.svg)
-![](https://raw.githubusercontent.com/kirtishukla9955/kirtishukla9955/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
-
+<img src="https://raw.githubusercontent.com/kirtishukla9955/kirtishukla9955/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+<img src="https://raw.githubusercontent.com/kirtishukla9955/kirtishukla9955/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 </div>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/kirtishukla9955/kirtishukla9955/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+<img src="https://raw.githubusercontent.com/kirtishukla9955/kirtishukla9955/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+</div>
 
-## 🎯 Current Focus
+---
+
+### 🎯 Current Focus
 
 - 🧠 Deep learning for medical image classification
 - 📚 Research & Internships
@@ -64,7 +49,7 @@
 
 ---
 
-## 🤝 Connect with Me
+### 🤝 Connect with Me
 
 <div align="center">
 
