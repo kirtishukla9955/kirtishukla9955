@@ -2,18 +2,18 @@
 
 <div align="center">
 
-### ❄️ About Me
+###  About Me
 
 </div>
 
-- 🎓 BTech IT student passionate about **AI/ML**
-- 🔬 Researcher · Mentor · Builder
-- 🌱 Currently exploring: Deep Learning & Computer Vision
-- ✨ To be better than yesterday, even if a bit
+-  BTech IT student passionate about **AI/ML**
+-  Researcher · Mentor · Builder
+-  Currently exploring: Deep Learning & Computer Vision
+-  To be better than yesterday, even if a bit
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -23,7 +23,7 @@
 
 ---
 
-### 🔥 GitHub Streak
+###  GitHub Streak
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=kirtishukla9955&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
@@ -51,9 +51,9 @@
 
 ### 🎯 Current Focus
 
-- 🧠 Deep learning for medical image classification
-- 📚 Research & Internships
-- 🚀 Building impactful side projects
+-  Deep learning for medical image classification
+-  Research & Internships
+-  Building impactful side projects
 
 ---
 
